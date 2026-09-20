@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Ganesh N</h1>
+<h1 align="center">Hi 👋, I'm Nune Sri Sai Ganesh</h1>
 
 <h3 align="center">
   IT Support Engineer | NOC Operations | Cybersecurity | Aspiring SOC Analyst
