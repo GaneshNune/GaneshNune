@@ -33,13 +33,13 @@ with a long-term goal of becoming a **CISO**.
 ## 🛡️ Current Experience
 
 - 🖥️ IT Support & NOC Operations
+- 💻 End-user Troubleshooting
 - 📊 Network & Infrastructure Monitoring
+- 🛠️ Incident & Service Request Handling
 - 🚨 Security Alert Investigation
 - 🔐 MFA & Identity Support
 - 🌐 Network Troubleshooting
 - 📧 Microsoft 365 Support
-- 🛠️ Incident & Service Request Handling
-- 💻 End-user Troubleshooting
 
 ---
 
